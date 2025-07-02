@@ -53,5 +53,4 @@ To understand what makes a password strong by creating various passwords, testin
 
 ##  Files Included
 
-- `password_analysis_report.pdf` – Detailed evaluation report
 - `README.md` – Summary of the project and methodology
