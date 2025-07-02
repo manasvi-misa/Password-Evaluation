@@ -54,3 +54,4 @@ To understand what makes a password strong by creating various passwords, testin
 ##  Files Included
 
 - `README.md` – Summary of the project and methodology
+- Screenshots of the website used.
